@@ -1,3 +1,3 @@
 # hello-world
 My name is Kay.
-Not the firs time here, but first time in a while! 
+Not first time here, but it's first time in a while! 
